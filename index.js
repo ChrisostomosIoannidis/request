@@ -1,3 +1,6 @@
-let name ="Chris";
-const age =22;
-var isStudent=true;
+let number=7;
+if(number %2===0){
+    console.log("Even");
+}else{
+    console.log("Odd");
+}
