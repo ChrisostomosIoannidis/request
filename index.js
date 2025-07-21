@@ -1,6 +1,4 @@
-let number=7;
-if(number %2===0){
-    console.log("Even");
-}else{
-    console.log("Odd");
+for(let i=1;i<=5;i++){
+    if(i==3)continue;
+    console.log(i);
 }
